@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Music Player',
+        title: 'Mjjjjjj',
         theme: miTema,
         home: MusicPlayerPage()
       ),
